@@ -38,7 +38,7 @@ A modern, responsive personal portfolio website to showcase my work, skills, edu
 
 ## 📸 Preview
 
-![Screenshot](./images/SP.png)  
+![Screenshot](./images/Personal.png)  
 
 ---
 ## 📬 Contact
