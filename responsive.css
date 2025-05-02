@@ -103,3 +103,40 @@
         font-size: 2.5rem;
     }
 }
+
+
+@media (max-width: 768px) {
+    html {
+      font-size: 55%;
+    }
+  
+    .home {
+      flex-direction: column;
+      padding-top: 10rem;
+    }
+  
+    .home img {
+      height: 30rem;
+      width: 30rem;
+    }
+  
+    .education .timeline-items::before {
+      left: 1rem;
+    }
+  
+    .education .timeline-items .timeline-item:nth-child(odd),
+    .education .timeline-items .timeline-item:nth-child(even) {
+      padding: 0 2rem;
+      text-align: left;
+    }
+  
+    .contact .form-container form {
+      flex-direction: column;
+    }
+  
+    .contact .form-container form .inputs,
+    .contact .form-container form .text {
+      width: 100%;
+    }
+  }
+  
