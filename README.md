@@ -47,9 +47,3 @@ A modern, responsive personal portfolio website to showcase my work, skills, edu
 - **GitHub:** [Satyajit7822](https://github.com/Satyajit7822)
 - **Twitter:** [@SatyajitPr74270](https://x.com/SatyajitPr74270?s=09)
 
----
-
-## 🙏 Acknowledgments
-
-- Inspiration from modern portfolio designs
-- Free resources from online communities (e.g., W3Schools, freeCodeCamp)
