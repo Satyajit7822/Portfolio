@@ -70,17 +70,13 @@
 @media(max-width:450px){
     
     .home .content p{
-        width: 100%;
-        max-width: 35rem;
-        margin:3rem;
+        width: 35rem;
     }
     .education .timeline-items{
         display: grid;
-
     }
     .contact .form-container form{
         display: grid;
-       
     }
     .contact .form-container form .inputs,
     .contact .form-container form .text{
@@ -88,14 +84,11 @@
 }
 .contact .form-container form .inputs .input,
 .contact .form-container form .text textarea{
-   
     width: 100%;
 }
 .contact{
     padding: 1rem 0;
 }
-
-
 }
 
 @media(max-width:550px) {
